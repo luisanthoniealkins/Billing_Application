@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                     if (disc < 0 || disc > 100){
                         mEditTextDiskon.setError("This field must only contain number from 0 to 100");
                         error = true;
-                        //as
+                        //asd
                     }
                 }
 
